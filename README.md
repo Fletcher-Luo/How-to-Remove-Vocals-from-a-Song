@@ -14,4 +14,4 @@ Run Windows PowerShell.
 Use `pip install spleeter` to install spleeter.
 
 ## Install FFmpeg
-Install FFmpeg from **ffmpeg.org**.
+Install FFmpeg from [ffmpeg.org].
